@@ -7,7 +7,7 @@ const UserList = ({ users }) => {
         <li
         className="list-group-item d-flex justify-content-between align-items-center"
         >
-        {users.name}
+        {user.name}
            
         </li>
       ))}
